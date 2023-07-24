@@ -1,0 +1,11 @@
+{
+  "name": "Restaraunt",
+  "description": "DAGESTAN RESTARAUNT",
+  "start_url": "/index.php",
+  "lang": "ru",
+  "display": "standalone",
+  "icons":[{
+    "src":"logo.png",
+    "sizes":"192x192"
+  }]
+}
